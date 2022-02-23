@@ -1,0 +1,22 @@
+.checkoutProduct{
+    display:flex;
+    margin-top:20px;
+    margin-bottom:20px;
+    background-color: whitesmoke;
+
+}
+.checkoutProduct_info{
+    padding-left:20px;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.removeProduct_button{
+    border:1px solid;
+    background:#ff9010;
+    margin-top: 10px;
+    color:black;
+    height:30px;
+    border-radius: 3px;
+    border-color:#b46408 #915007 #8f4e04;
+}
